@@ -1,14 +1,9 @@
-#clock {
-}
 
 #clock img {
-}
-
-#hour {
-}
-
-#minute {
+	position: absolute;
 }
 
 #second {
+	z-index: 99;
 }
+
